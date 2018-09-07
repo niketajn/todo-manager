@@ -1,0 +1,19 @@
+.categoryList{
+	padding-top: 5px;
+}
+
+.categoryList li{
+	list-style-type: none;
+}
+.listItem{
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+#taskList li{
+list-style-type: none;
+}
+
+#taskList{
+	padding-top: 5px;
+}
